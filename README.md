@@ -1,2 +1,2 @@
 # demo_project
-hello this is a demo project
+front-end project demo
